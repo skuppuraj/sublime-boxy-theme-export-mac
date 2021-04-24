@@ -1,1 +1,6 @@
-# sublime-boxy-theme-export-mac
+# Mac sublime text boxy theme backup
+
+## The following folders 
+- Packages
+- Cache
+- Installed Packages
