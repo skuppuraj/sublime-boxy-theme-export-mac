@@ -1,4 +1,4 @@
-# Mac sublime text boxy theme backup
+# Mac sublime text 3 boxy theme backup
 
 ## The following folders 
 - Packages
